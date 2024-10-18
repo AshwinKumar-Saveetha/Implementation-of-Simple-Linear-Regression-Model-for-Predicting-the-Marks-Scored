@@ -70,7 +70,7 @@ print("RMSE : ",rmse)
 
 ## Output:
 
-###![image](https://github.com/user-attachments/assets/025a3a95-70e7-4064-ab61-f99684f190e1)
+![image](https://github.com/user-attachments/assets/025a3a95-70e7-4064-ab61-f99684f190e1)
 ![image](https://github.com/user-attachments/assets/c1ee979a-2e3f-4a68-9042-e6ceca37d7ae)
 
 ![image](https://github.com/user-attachments/assets/9e0a8986-0911-49d9-bde3-3c3345662a1b)
